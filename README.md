@@ -10,7 +10,7 @@ By downloading, installing, using, or modifying this Resource Pack, you agree to
 
 You are allowed to:
 
-- Download, install, and use this Resource Pack for personal purposes.
+-Download, install, and use this Resource Pack for personal purposes.
 - Modify the files of this Resource Pack for personal use.
 - View, analyze, and modify the files for learning and educational purposes, provided that doing so does not violate any other terms of this license.
 - Request my permission to use files from this Resource Pack in other projects.
@@ -57,12 +57,14 @@ Permission will be granted solely at my discretion and may be subject to additio
 
 Disclaimer
 
-- This Resource Pack is provided "as is", without warranties of any kind, express or implied.
-- The author is not responsible for any damage, data loss, incompatibilities, or other issues resulting from the use of this Resource Pack.
+This Resource Pack is provided "as is", without warranties of any kind, express or implied.
+
+The author is not responsible for any damage, data loss, incompatibilities, or other issues resulting from the use of this Resource Pack.
 
 License Updates
 
-- Future versions of this Resource Pack may include updated license terms.
-- Each released version will remain subject to the terms of the license distributed with that specific version, except as otherwise required by applicable law.
+Future versions of this Resource Pack may include updated license terms.
 
-- By downloading or using this Resource Pack, you acknowledge that you have read, understood, and agree to comply with these terms.
+Each released version will remain subject to the terms of the license distributed with that specific version, except as otherwise required by applicable law.
+
+By downloading or using this Resource Pack, you acknowledge that you have read, understood, and agree to comply with these terms.
